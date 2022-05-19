@@ -11,6 +11,9 @@ public class Staticmethod {
 	}
 	static void disp()
 	{
+
+		System.out.println("good evening");
+		System.out.println("Hello DHoo dhoo paus");
 		System.out.println("disp method print");
 	}
 	
