@@ -11,7 +11,7 @@ public class PrajaktaIMp {
 		a.hungry();
 		a.fullname();
 		a.display();
-		
+		System.out.println("hello pune");
 		
 
 	}
